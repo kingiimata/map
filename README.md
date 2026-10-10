@@ -6,7 +6,7 @@ Proiect individual la disciplina Metode avansate de programare, anul universitar
 
 - **Nume:** Serfezi Eduard 
 - **Grupa:** 2.2
-- **Marca:** 615708
+- **Marca:** LH715708
 - **Tema:** Tema numarul 4 - Gestiune de inventar
 
 ## Descriere
