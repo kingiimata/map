@@ -4,14 +4,14 @@ Proiect individual la disciplina Metode avansate de programare, anul universitar
 
 ## Autor
 
-- **Nume:** [Nume Prenume]
-- **Grupa:** [grupa]
-- **Marca:** [marca]
-- **Tema:** [numarul temei] - [titlul temei]
+- **Nume:** Serfezi Eduard 
+- **Grupa:** 2.2
+- **Marca:** 615708
+- **Tema:** Tema numarul 4 - Gestiune de inventar
 
 ## Descriere
 
-[Doua-trei propozitii despre ce face aplicatia si ce problema rezolva.]
+Aplicatia de gestiune a inventarului este un sistem digital care centralizeaza evidenta produselor, permitand monitorizarea rapida a stocurilor, a preturilor si a miscarilor de marfa. Aceasta rezolva problema organizarii haotice si a erorilor umane frecvente in evidentele manuale, prevenind situatiile in care ramai brusc fara produse importante sau blochezi bani in stocuri inutile.
 
 ## Tehnologii
 
@@ -50,4 +50,4 @@ python -m pytest --cov=src
 
 ## Decizii de implementare
 
-[Doua-trei decizii tehnice pe care le-ati luat si motivul fiecareia.]
+**
